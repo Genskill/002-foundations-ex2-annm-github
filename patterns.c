@@ -27,7 +27,7 @@ void drawline1(int m)
 int main(void)
 {
     int v=get_int("Enter type of pattern(1 or 2) ");
-    int n=get_int("Number of rows");
+    int n=get_int("Number of rows\n");
     int i;
     if(v==1)
     {
